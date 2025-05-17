@@ -1,0 +1,8 @@
+Augmenting Path found: [0, 2, 7, 14] with flow: 2
+Augmenting Path found: [0, 5, 13, 14] with flow: 3
+Augmenting Path found: [0, 1, 6, 9, 14] with flow: 2
+Augmenting Path found: [0, 2, 7, 9, 14] with flow: 1
+Augmenting Path found: [0, 3, 8, 10, 14] with flow: 2
+Augmenting Path found: [0, 4, 11, 12, 14] with flow: 5
+Augmenting Path found: [0, 3, 8, 11, 12, 14] with flow: 2
+Total flow: 17

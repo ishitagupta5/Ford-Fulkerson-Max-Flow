@@ -1,0 +1,14 @@
+Augmenting Path found: [0, 1, 2, 13] with flow: 9
+Augmenting Path found: [0, 1, 4, 13] with flow: 11
+Augmenting Path found: [0, 3, 2, 13] with flow: 6
+Augmenting Path found: [0, 3, 4, 13] with flow: 19
+Augmenting Path found: [0, 3, 6, 13] with flow: 15
+Augmenting Path found: [0, 5, 6, 13] with flow: 10
+Augmenting Path found: [0, 7, 8, 13] with flow: 12
+Augmenting Path found: [0, 7, 10, 13] with flow: 3
+Augmenting Path found: [0, 9, 8, 13] with flow: 8
+Augmenting Path found: [0, 9, 10, 13] with flow: 10
+Augmenting Path found: [0, 9, 12, 13] with flow: 7
+Augmenting Path found: [0, 11, 10, 13] with flow: 7
+Augmenting Path found: [0, 11, 12, 13] with flow: 13
+Total flow: 130
